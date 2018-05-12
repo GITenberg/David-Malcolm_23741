@@ -1,0 +1,27 @@
+_repo: David-Malcolm_23741
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lloyd, Nelson
+    birthdate: 1873
+    deathdate: 1933
+    gutenberg_agent_id: '7180'
+    url: http://www.gutenberg.org/2009/agents/7180
+description: ''
+gutenberg_issued: '2007-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23741'
+  lccn: '13018074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: David Malcolm
+url: http://www.gutenberg.org/ebooks/23741
